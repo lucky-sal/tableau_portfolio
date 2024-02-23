@@ -5,7 +5,7 @@ Hello, and thanks for stopping by! This repository contains examples of Tableau 
 A collection of Tableau projects
 
 During a Job interview opportunity they wanted me to showcase my Tableau skills, which was an enjoyable excercise. The following is the views that I created with the sample data they provided me. 
-The Insights that I pulled from this analysis excersize are in the google slide here:[Google Slide]( https://docs.google.com/presentation/d/1M_v6tDbZd0KcPp5hWkipoQApMv1Vn57StsFLn4Uao_Y/edit?usp=drive_link)
+The Insights that I pulled from this analysis excersize are in the google slide here: [Google Slide] ( https://docs.google.com/presentation/d/1M_v6tDbZd0KcPp5hWkipoQApMv1Vn57StsFLn4Uao_Y/edit?usp=drive_link)
 
 A link to this Dashboard on Tableau Public:
 https://public.tableau.com/views/Sales_dashboard_practice/SalesbyState?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link

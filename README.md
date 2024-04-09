@@ -5,3 +5,4 @@ Hello, and thanks for stopping by! This repository contains examples of Tableau 
 A collection of Tableau projects:
 
 [Sales Analysis](https://github.com/lucky-sal/tableau_portfolio/blob/main/sales_analysis.md)
+[Ammo Chart](https://github.com/lucky-sal/tableau_portfolio/blob/main/ammo_chart.md)
